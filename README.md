@@ -2,12 +2,4 @@
 
 This repository contains Hashicorp configurations, demo code and code snippets.
 
-
-
-Lists
-
-*
-*
-*
-
 > Note : Test everything before you use it...
