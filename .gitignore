@@ -1,5 +1,11 @@
-.DS_Store
-.terraform.lock.hcl
-*.exe
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
 *.tfstate
+*.tfstate.*
+
+#Other
+.DS_Store
+*.exe
 *.backup
